@@ -1,0 +1,9 @@
+{
+  "name": "Underground_Beacon",
+  "version": "1.0.0",
+  "factorio_version": "0.18",
+  "title": "Underground Beacon",
+  "author": "Quezler",
+  "dependencies": ["base >= 0.18.32"],
+  "description": "Reverses the beacon animation to go into the ground."
+}
